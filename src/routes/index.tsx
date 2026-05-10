@@ -9,7 +9,7 @@ import heroFood from "@/assets/hero-food.jpg";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Foodly — Order food & book tables at top restaurants" },
+      { title: "FoodNox - Order food & book tables at top restaurants" },
       {
         name: "description",
         content: "Discover trending restaurants, order delicious food, and reserve a table.",
