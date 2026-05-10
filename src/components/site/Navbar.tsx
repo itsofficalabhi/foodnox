@@ -31,7 +31,7 @@ export function Navbar() {
             <UtensilsCrossed className="h-5 w-5 text-primary-foreground" />
           </div>
           <span className="text-xl font-bold tracking-tight">
-            Foodly<span className="text-gradient">.</span>
+            FoodNox<span className="text-gradient">.</span>
           </span>
         </Link>
 

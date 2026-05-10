@@ -10,7 +10,7 @@ export function Footer() {
             <div className="flex h-9 w-9 items-center justify-center rounded-xl bg-gradient-primary">
               <UtensilsCrossed className="h-5 w-5 text-primary-foreground" />
             </div>
-            <span className="text-xl font-bold">Foodly.</span>
+            <span className="text-xl font-bold">FoodNox .</span>
           </div>
           <p className="mt-3 max-w-xs text-sm text-muted-foreground">
             Discover the best restaurants, order food and book tables — all in one place.
@@ -39,14 +39,14 @@ export function Footer() {
         <div>
           <h4 className="font-semibold">Contact</h4>
           <ul className="mt-3 space-y-2 text-sm text-muted-foreground">
-            <li>support@foodly.app</li>
+            <li>support@foodnox.app</li>
             <li>+91 80 0000 0000</li>
             <li>Mumbai · Bengaluru · Delhi</li>
           </ul>
         </div>
       </div>
       <div className="border-t border-border/60 py-5 text-center text-xs text-muted-foreground">
-        © {new Date().getFullYear()} Foodly. Crafted with ❤ for food lovers.
+        © {new Date().getFullYear()} FoodNox. Crafted with ❤ for food lovers.
       </div>
     </footer>
   );
